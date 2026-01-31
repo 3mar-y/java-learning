@@ -5,6 +5,7 @@ Each folder represents a topic or mini‑project.
 
 ## 📂 Project Structure
 - **mad-libs** — simple Mad Libs game using Scanner + Strings
+- **shopping-cart** — basic shopping cart calculator using Scanner + arithmetic
 
 ## 🎯 Goals
 - Build strong Java fundamentals  
